@@ -1,3 +1,6 @@
+<figure>
+  <img src="{{site.url}}/images/posts/sensible_ml/GNN_main_pipeline.png" alt="" width="2048" height="1569"/>
+</figure>
 ---
 layout: post
 title: Sensible Machine Learning
