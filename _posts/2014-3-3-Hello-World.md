@@ -18,7 +18,11 @@ When designing a predictor with multiple outputs, it is common for each output t
 
 ### Choice of Activation Function
 Common activation functions in ANNs include Sigmoid, Tanh, ReLU and many others. We designed a new activation function based on the generalized logistic function that recapitulates the non-linear dynamics that govern gene expression.
-![_config.yml]({{ site.baseurl }}/images/posts/sensible_ml/GNN_Layer.png =432x)
+<figure>
+  <img src="{{site.url}}/images/posts/sensible_ml/GNN_Layer.png" alt="" width="432" height="302"/>
+  <figcaption><strong>
+Figure 2.</strong> A GNN layer illustrated to predict expression of gene d when regulated by genes <em>c</em> and <em>b</em>.</figcaption>
+</figure>
 
 ### Assumption of Parameter Dependencies
 When fitting model parameters, it is common to update all parameters simultaneously in each step of optimization. We depart from this practice in two ways. First, we perform layer-wise training where each layer of GNN is trained independently. Second, in training of each layer we identify two groups of parameters where the values of the second group is dependent of the first group and achieved using a linear program. In activation function illustrated in **Figure 2.** the parameters **t** and **b** are dependent on **p** through a linear program. For detailed explanation see section “2.2 Layer-wise Training” in [1].
