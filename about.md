@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a PhD candidate in [department of computer science at UCDavis](https://cs.ucdavis.edu/) with specialization in machine learning and bioinformatics. My current research involves developing diet recommendation systems for health. You can find [my resume here](https://github.com/ameenetemady/ameenetemady.github.io/raw/master/misc/Ameen_Eetemadi_Resume.pdf).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[my_last_name@ucdavis.edu](mailto:my_last_name@ucdavis.edu)
