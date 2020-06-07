@@ -8,4 +8,4 @@ I'm a PhD candidate in [department of computer science at UCDavis](https://cs.uc
 
 ### Contact me
 
-[my_last_name@ucdavis.edu](mailto:my_last_name@ucdavis.edu)
+Use [my lastname at ucdavis dot edu](mailto:my_last_name@ucdavis.edu).
