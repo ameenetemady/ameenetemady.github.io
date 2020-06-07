@@ -1,10 +1,10 @@
-<figure>
-  <img src="{{site.url}}/images/posts/sensible_ml/GNN_main_pipeline.png" alt="" width="2048" height="1569"/>
-</figure>
 ---
 layout: post
 title: Sensible Machine Learning
 ---
+<figure>
+  <img src="{{site.url}}/images/posts/sensible_ml/GNN_main_pipeline.png" alt="" width="2048" height="1569"/>
+</figure>
 
 There are many choices and assumptions to make when designing a machine learning (ML) based system. Taking the common choice is appealing but can undermine your system performance.  Having  recently designed an ML based system for prediction of gene expression (GE) [1], we made various uncommon but sensible choices and assumptions given the particular problem we solved. I’d like to highlight some of those choices here and elaborate why they are sensible. **Figure 1.** briefly introduces our GE prediction problem where we want our model to use expression of master regulator (MR) gene and knockout vector to predict GE values for other genes.
 <figure>
