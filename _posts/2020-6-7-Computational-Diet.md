@@ -4,7 +4,7 @@ title: The Computational Diet
 ---
 
 <figure>
-  <img src="{{site.url}}/images/posts/the_computational_diet/The_Computational_Diet.jpg" alt="" width="600" />
+  <img src="{{site.url}}/images/posts/the_computational_diet/The_Computational_Diet.jpg" alt="" width="700" />
   <figcaption>
     <strong>Figure 1.</strong> A vision for next generation nutrition platform involing microbiome-aware dietary planning and manufacturing <a href="https://doi.org/10.3389/fmicb.2020.00393">[1]</a>.</figcaption>
 </figure>
