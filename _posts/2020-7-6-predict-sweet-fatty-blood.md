@@ -8,4 +8,5 @@ The Low-carb, Low-fat, Keto, Vegetarian, Carnivore, and so [much more](https://e
 
 ## References
 [1] Berry, S.E., Valdes, A.M., Drew, D.A., Asnicar, F., Mazidi, M., Wolf, J., Capdevila, J., Hadjigeorgiou, G., Davies, R., Al Khatib, H. and Bonnett, C., 2020. Human postprandial responses to food and potential for precision nutrition. Nature Medicine, pp.1-10.
+
 [2] Zeevi, D., Korem, T., Zmora, N., Israeli, D., Rothschild, D., Weinberger, A., Ben-Yacov, O., Lador, D., Avnit-Sagi, T., Lotan-Pompan, M. and Suez, J., 2015. Personalized nutrition by prediction of glycemic responses. Cell, 163(5), pp.1079-1094.
