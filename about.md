@@ -6,7 +6,7 @@ permalink: /about/
 
 **I tailor computational solutions for life science teams.**
 
-I'm a former Microsoft engineer, an expert in machine learning, optimization, bioinformatics and medical informatics with a Ph.D. in computer science. You can find [my resume here](https://github.com/ameenetemady/ameenetemady.github.io/raw/master/misc/Ameen_Eetemadi_Resume.pdf).
+I'm a former Microsoft engineer, an expert in machine learning, optimization, bioinformatics and medical informatics with a Ph.D. in computer science (designated emphasis in biotechnology). You can find [my resume here](https://github.com/ameenetemady/ameenetemady.github.io/raw/master/misc/Ameen_Eetemadi_Resume.pdf).
 
 ### Contact me
 
