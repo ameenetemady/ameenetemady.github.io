@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm a PhD candidate in [department of computer science at UCDavis](https://cs.ucdavis.edu/) with specialization in machine learning and bioinformatics. My current research involves developing diet recommendation systems for health. You can find [my resume here](https://github.com/ameenetemady/ameenetemady.github.io/raw/master/misc/Ameen_Eetemadi_Resume.pdf).
+**I tailor computational solutions for life science teams.**
+
+I'm a former Microsoft engineer, an expert in machine learning, optimization, bioinformatics and medical informatics with a PhD in computer science. You can find [my resume here](https://github.com/ameenetemady/ameenetemady.github.io/raw/master/misc/Ameen_Eetemadi_Resume.pdf).
 
 ### Contact me
 
