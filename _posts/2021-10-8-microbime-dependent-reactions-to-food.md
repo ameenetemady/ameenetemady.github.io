@@ -1,0 +1,14 @@
+---
+layout: post
+title: Microbiome-dependent reactions to food
+---
+![]({{site.url}}/images/posts/microbiome-dependent-reactions-to-food/Overview.jpg)
+
+A main goal of nutrition research, is to determine the healthiness of a given diet, based on the consumer's biological, physiological, and behavioral attributes. We have learned some already, with more to be discovered. For example, we already know that the healthiness of a diet depends on the consumer's physical activity and age. A healthy diet for a swimmer, can involve 12,000 calories a day when training for the olympics while a bedridden eldery woman, would need a tenth of that calorie intake. When it comes subtle attributes such as the the consumer's gut microbiome, we have realized their importance, but don't know how use them for determining the healthiness of a given diet. This is a flourishing area of research that is producing novel discoveries these days.
+
+I recently used gut microbime data to determine the effect of a low-FODMAP diet for patients with irritable bowel syndrome (IBS) [1]. In IBS, involving about 11% of adults, the patients regularly experience gastrointestinal symptoms such as abdominal pain, constipation, diarrhea and bloating. It is common for these patients to follow a low-FODMAP diet for managing their symptoms, however, this diet doesn't work for all. In the low-FODMAP diet, the patient tries to minimize the amount of carbohydrates that feed their gut microbiome in the large intestine (i.e. not digested in the small intestine). Therefore the patient's reaction to the diet depends on the type of microbes that live there. Think of low-FODMAP diet for gut microbiome like banning alcohol for a group of people. Do this to a group of alcoholics and you will see initial unease and major changes in their lifestyle. Do it to people who never drink alcohol (e.g., muslims, mormens or hindus), and nothing changes for them.
+
+Following an integrated analysis on the combined data from multiple studies, we argued that: patients who's gut are enriched by microboes with short-chain fatty acid (SCFA) and methane metabolism capabilities respond well to a low-FODMAP diet. Other patients, may benefit more from probiotcs that contain SCFA-producing bacteria such as *lactobacillus*. Futher studies are necessary to confirm this.
+
+## References
+[1] Eetemadi A, Tagkopoulos I. Methane and fatty acid metabolism pathways are predictive of LowFODMAP diet efficacy for patients with irritable bowel syndrome. Clinical Nutrition. 2021 Apr 3. [doi: doi: 10.1016/j.clnu.2020.12.041](https://doi.org/doi: 10.1016/j.clnu.2020.12.041)
