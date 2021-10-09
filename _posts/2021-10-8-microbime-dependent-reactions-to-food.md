@@ -11,4 +11,4 @@ I recently used gut microbime data to determine the effect of a low-FODMAP diet 
 Following an integrated analysis on the combined data from multiple studies, we argued that: patients who's gut are enriched by microboes with short-chain fatty acid (SCFA) and methane metabolism capabilities respond well to a low-FODMAP diet. Other patients, may benefit more from probiotcs that contain SCFA-producing bacteria such as *lactobacillus*. Futher studies are necessary to confirm this.
 
 ## References
-[1] Eetemadi A, Tagkopoulos I. Methane and fatty acid metabolism pathways are predictive of LowFODMAP diet efficacy for patients with irritable bowel syndrome. Clinical Nutrition. 2021 Apr 3. [doi: doi: 10.1016/j.clnu.2020.12.041](https://doi.org/doi: 10.1016/j.clnu.2020.12.041)
+[1] Eetemadi A, Tagkopoulos I. Methane and fatty acid metabolism pathways are predictive of LowFODMAP diet efficacy for patients with irritable bowel syndrome. Clinical Nutrition. 2021. [doi: doi: 10.1016/j.clnu.2020.12.041](https://doi.org/doi: 10.1016/j.clnu.2020.12.041)
